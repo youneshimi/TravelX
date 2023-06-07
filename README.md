@@ -1,22 +1,35 @@
-# fluttertravelui
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Logo Flutter" width="200px">
+</p>
 
-A new Flutter project.
+# TRAVELX - Application de Voyage Statique
 
-## Getting Started
+TRAVELX est une application de voyage statique développée en utilisant le framework Flutter. Elle permet aux utilisateurs de rechercher, visualiser et filtrer les activités et les hôtels disponibles dans différentes destinations.
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités
 
-A few resources to get you started if this is your first Flutter project:
+- Affichage de la liste des destinations de voyage.
+- Visualisation des détails des activités et des hôtels, tels que la description, les images, les évaluations, etc.
+- Filtrage des activités et des hôtels en fonction de critères tels que le prix, les évaluations, la catégorie, etc.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Captures d'écran
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/ZJAboZz.jpg" alt="Capture d'écran 1" width="250px"></td>
+    <td><img src="https://i.imgur.com/92q6oWG.jpg" alt="Capture d'écran 2" width="250px"></td>
+    <td><img src="https://i.imgur.com/sATfzYt.jpg" alt="Capture d'écran 3" width="250px"></td>
+  </tr>
+</table>
 
-![image](photo_2022-12-11_19-06-21.jpg)
-<br>
-![image](photo_2022-12-11_19-06-22.jpg)
-<br>
-![image](photo_2022-12-11_19-06-23.jpg)
+## Installation et Exécution
+
+1. Assurez-vous d'avoir Flutter SDK installé sur votre machine.
+2. Clonez ce dépôt sur votre ordinateur.
+3. Exécutez la commande `flutter pub get` pour télécharger les dépendances.
+4. Lancez un émulateur ou connectez un périphérique physique.
+5. Exécutez la commande `flutter run` pour lancer l'application sur votre appareil.
+
+## Auteurs
+
+- [Younes Shimi](https://github.com/youneshimi) - Développeur principal
