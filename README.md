@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Logo Flutter" width="200px">
+  <img src="https://i.imgur.com/d6dGdV3.png" alt="Logo Flutter" width="200px">
 </p>
 
 # TRAVELX - Application de Voyage Statique
