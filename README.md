@@ -29,7 +29,3 @@ TRAVELX est une application de voyage statique développée en utilisant le fram
 3. Exécutez la commande `flutter pub get` pour télécharger les dépendances.
 4. Lancez un émulateur ou connectez un périphérique physique.
 5. Exécutez la commande `flutter run` pour lancer l'application sur votre appareil.
-
-## Auteurs
-
-- [Younes Shimi](https://github.com/youneshimi) - Développeur principal
